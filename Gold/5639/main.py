@@ -23,7 +23,5 @@ def to_tree(arry):
   print(root)
 
 
-
 preorder = [int(x) for x in sys.stdin]
-
 to_tree(preorder)
